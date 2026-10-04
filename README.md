@@ -1,5 +1,5 @@
 <div align="center">
-  
+   
 # Attocus
 ### Intelligent Multi-Agent Interactive Study Companion & Cognitive Focus Platform
 
